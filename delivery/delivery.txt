@@ -1,0 +1,21 @@
+Dato la stagione, abbiamo pensato a darvi un esercizio a tema:
+Creiamo una applicazione che consente ai suoi utenti di catalogare i vari lidi sparsi per l'Italia.
+
+Ogni lido ha le seguenti proprietà:
+    Nome
+    Località
+    Numero ombrelloni
+    Numero lettini
+    Prezzo di ombrellone al giorno
+    Data di apertura
+    Data di chiusura
+    Se ha un campo da beach volley o meno
+    Se ha un campo da calcio o meno
+
+(ovviamente siete liberi di aggiungerne altre di proprietà)
+Dovrà essere possibile visualizzare tutti i lidi su una pagina.
+Dovrà inoltre anche essere possibile di: aggiungere un nuovo lido, visualizzare un lido, modificare un lido, eliminare un lido.
+
+ATTENZIONE: I dati devono essere validati!
+BONUS: Eliminando un lido, non lo elimina dal db, ma semplicemente non lo mostra più tra i lidi (softdelete)
+SUPERBONUS: Avere una pagina con tutti i lidi eliminati, con la possibilità di ripristinare
